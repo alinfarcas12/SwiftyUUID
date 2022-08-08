@@ -6,6 +6,7 @@
 //
 //
 
+import UIKit
 /**
     Generate a new RFC 4122, version 4 (random) UUID.
     
